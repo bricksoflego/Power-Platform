@@ -10,7 +10,7 @@ When creating a SharePoint site, such as a communication site, an Events calenda
 
 Currently, this app uses the 'Category', 'Start Time',  'End Time', and 'Title' fields. However, more can be added to customize the calendar form.
 
-![image-20250520085453273](/DocumentationImages/Screenshot 2025-05-20 085448.png)
+![image-20250520085453273](/DocumentationImages/Screenshot%202025-05-20%20085448.png)
 
 ## Import & Configure the App
 
