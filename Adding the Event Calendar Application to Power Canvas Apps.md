@@ -87,7 +87,7 @@ UpdateContext(
 
 Then in the dialog, you need to simply reference the context variable to display the information.
 
-![image-20250520100123489](/DocumentationImages/Screenshot%202025-05-20 100116.png)
+![image-20250520100123489](/DocumentationImages/Screenshot%202025-05-20%20100116.png)
 
 ## Running the Completed App
 
