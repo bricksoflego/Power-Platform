@@ -4,7 +4,7 @@
 
 When creating a SharePoint site, such as a communication site, an Events calendar is automatically created. However, if one does not already exist, or you have an existing calendar you would like to use, just make note of the name and location.
 
-![image-20250520083634259](blob/main/DocumentationImages/Screenshot%202025-05-20%20083556.png)
+![image-20250520083634259](/DocumentationImages/Screenshot%202025-05-20%20083556.png)
 
 >  It is not required to use a SharePoint calendar. This application will also work if connected to a generic list or other data source so long as it contains the necessary columns. Note that when using a generic list, there may be  additional configuration required beyond the scope of this document.
 
